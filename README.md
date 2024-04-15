@@ -1,16 +1,16 @@
-### Hi there 👋
+<h3 style="border-bottom: none !important" align="center">Hi there 👋 Thank you for stopping by😊 </h3>
 
-<!--
-**v-limo/v-limo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻&nbsp;&nbsp; My name is Vincent Limo, and this is where I make, test, frequently break, learn, contribute, and fix stuff.
+
+💼&nbsp;&nbsp; Fullstack Software Developer currently working at [Integrify ,Finland](https://www.integrify.io/)
+
+<!-- 👀&nbsp;&nbsp;Available for Freelance and Fulltime projects opportunities. -->
+
+📫&nbsp;&nbsp;You can reach me via [Linkedin](https://www.linkedin.com/in/vincentlimo), [Portfolio](https://bit.ly/3ttcjZm) or [Email](mailto:limovincenti@gmail.com)
+</div>
+
+---
